@@ -3,7 +3,7 @@ const menu = [{
         title: "Channa Dal",
         category: "Lunch",
         price: 50,
-        img: "./images/channa-dal.jpg",
+        img: "channa-dal.jpg",
         desc: `Channa Dal Is Our Speciality`,
     },
     {
